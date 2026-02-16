@@ -1,1 +1,2 @@
-# Bank-additional_information
+# BankMarketing
+Bank Marketing dataset (UCI)
